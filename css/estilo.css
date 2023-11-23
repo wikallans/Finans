@@ -2,3 +2,23 @@
     background: #ffc107;
     color: white;
 }
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+footer p a {
+
+    margin: 5px 15px;
+}
+form-cast{
+
+    max-width: 300px;
+      margin: 20px auto;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa; /* Cor de fundo opcional para melhor visualização */
+    padding: 20px 0; /* Espaçamento interno opcional para melhor visualização */
+  }
